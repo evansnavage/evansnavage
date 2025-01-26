@@ -17,3 +17,5 @@ I'll come back to yap about my masters thesis when I'm actually working on it. �
 They/Them or He/Him or whatever, not too worried about it.
 
 📫 Reach out via email: [contact@evansavage.me](mailto:contact@evansavage.me)
+
+Just realized I messed up my git config and don't have any commits linked to the actual account through most of 2024, whoops 😅
