@@ -2,7 +2,7 @@
 💯 I'm Evan Savage, depending on who you ask, a 2nd or 4th year student at Rochester Institute of Technology.  
   
 🔭 Currently Working on:
-  - Bachelors and Masters degrees in Software Engineering
+  - Simultaneous Bachelors and Masters degrees in Software Engineering
   - Learning Embedded C and Web Accesibility
   - Unnamed game project in Godot 4.0
   - Tracking how many people are in a room with random left over IR sensors
