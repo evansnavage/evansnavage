@@ -3,12 +3,13 @@
   
 🔭 Currently Working on:
   - Simultaneous Bachelors and Masters degrees in Software Engineering
-  - Learning Embedded C and Web Accesibility
+  - Learning Embedded C, Web Accesibility, and Graphics Program
   - Unnamed game project in Godot 4.0
-  - Tracking how many people are in a room with random left over IR sensors
+  - Tracking how many people are in a room with passive infrared motion sensors.
+  - Tutoring Java students
 
 ✨ Perpetually tinkering in Python, Java, and mathematical languages like Matlab and Mathematica.  
-🌱 Looking for an excuse to learn Ocaml, Rust, Zig, COBOL, Haskell, among others...  
+🌱 Looking for an excuse to learn GLSL, Ocaml, Rust, Zig, COBOL, Haskell, among others...  
   
 Super excited about education and programming.  
   
