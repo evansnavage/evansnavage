@@ -7,8 +7,9 @@
   - Unnamed game project in Godot 4.0
   - Tracking how many people are in a room with passive infrared motion sensors.
   - Tutoring Java students
+  - Losing Hackathons 💪
 
-✨ Perpetually tinkering in Python, Java, and mathematical languages like Matlab and Mathematica.  
+✨ Perpetually tinkering in Python, Java, and C.  
 🌱 Looking for an excuse to learn GLSL, Ocaml, Rust, Zig, COBOL, Haskell, among others...  
   
 Super excited about education and programming.  
