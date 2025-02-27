@@ -14,7 +14,7 @@
   
 Super excited about education and programming.  
   
-I'll come back to yap about my masters thesis when I'm actually working on it. 😅  
+Research in Computing Education Pedagogy.
   
 They/Them or He/Him or whatever, not too worried about it.  
   
