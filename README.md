@@ -3,6 +3,7 @@
   
 🔭 Currently Working on:
   - Simultaneous Bachelors and Masters degrees in Software Engineering
+  - Writing a programming language (lunacy)
   - Learning Embedded C, Web Accesibility, Algorithms
   - Unnamed game project in Godot 4.0
   - Tracking how many people are in a room with passive infrared motion sensors.
